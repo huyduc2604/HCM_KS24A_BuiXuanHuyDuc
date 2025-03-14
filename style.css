@@ -1,0 +1,190 @@
+.logo span {
+    font-size: 24px;
+    font-weight: bold;
+}
+.resume-btn {
+    background: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.box_one{
+    background-color: rgb(255, 255, 255);
+    width: 1440px;
+    height: 104px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    font-size: 20px;
+}
+.one1{
+    display: flex;
+    margin-top: 32px;
+}
+.one2{
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+.one3{
+    display: flex;
+    margin-top: 20px;
+    
+    
+}
+.one3 button{
+    background-color: rgb(255, 255, 255);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    width: 153px;
+    height: 46px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.de1 img{
+    width: 39.91px;
+    height: 40px;
+}
+.de1 b{
+    width: 88px;
+    height: 24px;
+}
+
+.box_two{
+    background-color: rgb(255, 255, 255);
+    width: 1440PX;
+    height: 716PX;
+    position: relative;
+}
+.box1{
+    
+    background-color: white;
+    width: 1280px;
+    height: 596px;
+    padding-top: 20px;
+    margin: auto; /* Dịch bảng ra giữa */
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+.img1{
+    position: absolute;
+    display: flex;
+    width: 809px;
+    height: 506px;
+    left: 380px;
+    top: 40px;
+}
+.text1{
+    font-size: 40px;
+    margin-left: 120px;
+    margin-top: 150px;
+    letter-spacing: 1px; /* Điều chỉnh khoảng cách giữa các chữ */
+}
+.text3, .text4{
+    margin-top: -20px;
+}
+.text5{
+    margin-left: 120px;
+    color: rgb(117, 115, 115);
+    font-size: 17px;
+}
+.button_all{
+    border: none;
+    margin-left: 100px;
+    display: flex;
+    gap: 20px;
+    margin-left: 120px;
+    margin-top: 50px;
+    
+
+}
+.button_fb{
+    background-color: black;
+    border-radius: 4px;
+    border: none;
+    width: 40px;
+    height: 40px;
+   
+}
+.button_funny{
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+   
+}
+.button_chim{
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+   
+}
+.button_dis{
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+   
+}
+.box_three{
+    background-color: rgb(255, 255, 255);
+    width: 1440px;
+    height: 728px;
+}
+.text6{
+    font-size: 40px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.lucky_one{
+    display: flex;
+    margin-left: 150px;
+    gap: 50px;
+    width: 186px;
+    height: 186px;
+
+}
+.lucky_two{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 50px;
+    gap: 50px;
+    width: 186px;
+    height: 186px;
+
+}
+footer{
+    background-color: black;
+    width: 1440px;
+    height: 100px;
+}
+.footer1{
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+}
+.footer1 img{
+    margin-top: 30px;
+}
+.footer2{
+    color: white;
+    margin-top: -60px;
+    margin-left: 1200px;
+
+}
